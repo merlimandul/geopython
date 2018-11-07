@@ -1,0 +1,10 @@
+# this is a valid comment in a .gitignore file
+
+# this is our temp.out ignore
+temp.out
+
+# this is ignoring the "generated" folder under/inside the "L1" folder
+L1/generated/
+
+# this is ignoring all *.tmp files
+*.tmp
